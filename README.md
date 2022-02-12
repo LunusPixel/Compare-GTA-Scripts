@@ -14,7 +14,7 @@ https://www.python.org/downloads/windows/
 Note: On the first screen, enable the “Add Python 3.6 to PATH” option and then click “Install Now.”
 
 
-Download rockstarMD5Comparer.py
+# Download rockstarMD5Comparer.py
 
 
 Open up CMD - Press Winkey + R so you bring up the "RunBox" type “cmd” into the box and then press Ctrl+Shift+Enter to run CMD as an administrator
@@ -25,7 +25,7 @@ Example:
 
 `cd c:/users/ENTER_YOUR_PC_NAME_HERE_OR_USER_NAME/desktop` and hit enter
 
-Run:
+# Run:
 
  `python rockstarMD5Comparer.py` 
 
