@@ -5,13 +5,20 @@ Quick script deigned for downloding/viewing latest changes between bg_script.rpf
 
 
 
-# Install/Run
+# Setup
 
 
 Download Python 
 https://www.python.org/downloads/windows/
 
 Note: On the first screen, enable the “Add Python 3.6 to PATH” option and then click “Install Now.”
+
+
+Download GTA Background script:
+
+Link: http://prod.cloud.rockstargames.com/titles/gta5/pcros/bgscripts/bg_ng_944_1.rpf
+
+Every Tuesday/Thursday they tend release a new update, run it periodically throughout the day or stick it on server and leave it running
 
 
 # Download rockstarMD5Comparer.py
@@ -37,3 +44,8 @@ Example:
 
 
 Will output if MD5 has chnaged for the file (Once they update the background script they tend change the MD5 hash for the file each time)
+
+
+
+
+Note: You can add tweepy so it tweets the changes, if you would like to see this functionality added then open a new issue. 
