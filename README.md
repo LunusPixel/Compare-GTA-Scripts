@@ -5,7 +5,7 @@ Quick script deigned for downloding/viewing latest changes between bg_script.rpf
 
 
 
-#Install/Run
+# Install/Run
 
 
 Download Python 
