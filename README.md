@@ -16,6 +16,13 @@ Note: On the first screen, enable the “Add Python 3.6 to PATH” option and th
 
 # Download rockstarMD5Comparer.py
 
+Download Link:
+https://github.com/LunusPixel/Compare-GTA-Scripts/releases/tag/Release
+
+
+
+# Run:
+
 
 Open up CMD - Press Winkey + R so you bring up the "RunBox" type “cmd” into the box and then press Ctrl+Shift+Enter to run CMD as an administrator
 
@@ -25,7 +32,6 @@ Example:
 
 `cd c:/users/ENTER_YOUR_PC_NAME_HERE_OR_USER_NAME/desktop` and hit enter
 
-# Run:
 
  `python rockstarMD5Comparer.py` 
 
