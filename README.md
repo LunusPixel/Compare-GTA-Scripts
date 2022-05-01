@@ -48,5 +48,4 @@ Will output if MD5 has chnaged for the file (Once they update the background scr
 
 
 
-Note: You can add tweepy so it tweets the changes, if you would like to see this functionality added then open a new issue. 
-Thanks @Prince25 for the help on this
+Note: You can add tweepy so it tweets the changes
