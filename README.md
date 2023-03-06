@@ -48,4 +48,4 @@ Will output if MD5 has chnaged for the file (Once they update the background scr
 
 
 
-Note: You can add tweepy so it tweets the changes
+Discord and Tweepy added. Add you webhook URL for discord, and twitter API credentials 
